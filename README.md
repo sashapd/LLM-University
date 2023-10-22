@@ -1,5 +1,7 @@
-# LLM-University
+# LLM University
 Like "Coding Interview University" but for LLMs.
+
+ ![God](https://karpathy.ai/assets/me_new.jpg)
 
 ### How to use
 
@@ -33,6 +35,8 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 - [ ] **Description:**
     - [ ] [The spelled-out intro to neural networks and backpropagation: building micrograd - Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0) - A foundational understanding of neural networks and backpropagation.
+- [ ] **Implementation:**
+    - [ ] TBD
 
 ### Understanding and Building Language Models
 
@@ -43,6 +47,16 @@ Create a new branch so you can check items like this, just put an x in the brack
     - [ ] [Building makemore Part 4: Becoming a Backprop Ninja - Andrej Karpathy](https://www.youtube.com/watch?v=q8SA3rM6ckI) - Mastering the intricacies of backpropagation.
     - [ ] [Building makemore Part 5: Building a WaveNet - Andrej Karpathy](https://www.youtube.com/watch?v=t3YJ5hKiMQ0) - Constructing a WaveNet model from scratch.
     - [ ] [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Detailed walkthrough for building a GPT model.
+- [ ]  **Implementation:**
+    - [ ] TBD
+
+### Tools
+- [ ] **Tools for Deep learning:**
+    - [ ] [Python Tutorial, Manasi Sharma (Stanford CS224N 2023)](https://www.youtube.com/watch?v=8j4wpU98Q74) - A comprehensive Python tutorial to brush up on your skills.
+    - [ ] [PyTorch Tutorial, Drew Kaul (Stanford CS224N 2023)](https://www.youtube.com/watch?v=Uv0AIRr3ptg) - Get hands-on with PyTorch, a powerful tool for deep learning.
+    - [ ] [Hugging Face Tutorial, Eric Frankel (Stanford CS224N 2023)](https://www.youtube.com/watch?v=b80by3Xk_A8) - Learn to implement state-of-the-art models in NLP using Hugging Face.
+- [ ] **Implementation:**
+    - [ ] TBD
 
 ### CS224N: Natural Language Processing with Deep Learning
 
@@ -61,3 +75,11 @@ Create a new branch so you can check items like this, just put an x in the brack
     - [ ] [Lecture 12 - Question Answering](https://www.youtube.com/watch?v=NcqfHa0_YmU)
     - [ ] [Lecture 13 - Coreference Resolution](https://www.youtube.com/watch?v=FFRnDRcbQQU)
     - [ ] [Lecture 14 - Insights between NLP and Linguistics](https://www.youtube.com/watch?v=NvIWF82Fw4E)
+    - [ ] [Lecture 15 - Add Knowledge to Language Models (Winter 2021)](https://www.youtube.com/watch?v=y68RJVfGoto)
+    - [ ] [Lecture 15 - Code Generation (2023)](https://www.youtube.com/watch?v=JlK46EzImM8)
+    - [ ] [Lecture 16 - Multimodal Deep Learning, Douwe Kiela (2023)](https://www.youtube.com/watch?v=5vfIT5LOkR0)
+    - [ ] [Lecture 17 - Model Analysis and Explanation (Winter 2021)](https://www.youtube.com/watch?v=f_qmSSBWV_E)
+    - [ ] [Lecture 18 - Future of NLP + Deep Learning (Winter 2021)](https://www.youtube.com/watch?v=2t7Q9WVUaf8)
+    - [ ] [Lecture 19 - Model Interpretability & Editing, Been Kim (2023)](https://www.youtube.com/watch?v=cd3pRpEtjLs)
+- [ ] **Implementation:**
+    - [ ] TBD
