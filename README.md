@@ -1,7 +1,7 @@
 # LLM University
 Like "Coding Interview University" but for LLMs.
 
- ![God](https://karpathy.ai/assets/me_new.jpg)
+ ![God](https://i.imgur.com/7mM6rar.jpeg)
 
 ### How to use
 
