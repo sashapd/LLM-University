@@ -1,5 +1,5 @@
 # LLM University
-Like "Coding Interview University" but for LLMs.
+Like [Coding Interview University](https://github.com/jwasham/coding-interview-university) but for LLMs.
 
  ![God](https://i.imgur.com/7mM6rar.jpeg)
 
