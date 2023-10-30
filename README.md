@@ -36,25 +36,25 @@ Create a new branch so you can check items like this, just put an x in the brack
 - [ ] **Description:**
     - [ ] [The spelled-out intro to neural networks and backpropagation: building micrograd - Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0) - A foundational understanding of neural networks and backpropagation.
 - [ ] **Implementation:**
-    - [ ] TBD
+    - [ ] Implement nn.py and engine.py from [micrograd](https://github.com/karpathy/micrograd) from scratch
 
 ### Understanding and Building Language Models
 
 - [ ] **Description:**
-    - [ ] [The spelled-out intro to language modeling: building makemore - Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo) - Introduction to the concepts of language modeling.
-    - [ ] [Building makemore Part 2: MLP - Andrej Karpathy](https://www.youtube.com/watch?v=TCH_1BHY58I) - Multi-layer Perceptrons in language modeling.
-    - [ ] [Building makemore Part 3: Activations & Gradients, BatchNorm - Andrej Karpathy](https://www.youtube.com/watch?v=P6sfmUTpUmc) - Delving into activation functions and understanding Batch Normalization.
-    - [ ] [Building makemore Part 4: Becoming a Backprop Ninja - Andrej Karpathy](https://www.youtube.com/watch?v=q8SA3rM6ckI) - Mastering the intricacies of backpropagation.
-    - [ ] [Building makemore Part 5: Building a WaveNet - Andrej Karpathy](https://www.youtube.com/watch?v=t3YJ5hKiMQ0) - Constructing a WaveNet model from scratch.
-    - [ ] [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) - Detailed walkthrough for building a GPT model.
+    - [ ] [The spelled-out intro to language modeling: building makemore - Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo)
+    - [ ] [Building makemore Part 2: MLP - Andrej Karpathy](https://www.youtube.com/watch?v=TCH_1BHY58I)
+    - [ ] [Building makemore Part 3: Activations & Gradients, BatchNorm - Andrej Karpathy](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+    - [ ] [Building makemore Part 4: Becoming a Backprop Ninja - Andrej Karpathy](https://www.youtube.com/watch?v=q8SA3rM6ckI)
+    - [ ] [Building makemore Part 5: Building a WaveNet - Andrej Karpathy](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
+    - [ ] [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [ ]  **Implementation:**
     - [ ] TBD
 
 ### Tools
 - [ ] **Tools for Deep learning:**
-    - [ ] [Python Tutorial, Manasi Sharma (Stanford CS224N 2023)](https://www.youtube.com/watch?v=8j4wpU98Q74) - A comprehensive Python tutorial to brush up on your skills.
-    - [ ] [PyTorch Tutorial, Drew Kaul (Stanford CS224N 2023)](https://www.youtube.com/watch?v=Uv0AIRr3ptg) - Get hands-on with PyTorch, a powerful tool for deep learning.
-    - [ ] [Hugging Face Tutorial, Eric Frankel (Stanford CS224N 2023)](https://www.youtube.com/watch?v=b80by3Xk_A8) - Learn to implement state-of-the-art models in NLP using Hugging Face.
+    - [ ] [Python Tutorial, Manasi Sharma (Stanford CS224N 2023)](https://www.youtube.com/watch?v=8j4wpU98Q74) - A Python tutorial to brush up on your skills.
+    - [ ] [PyTorch Tutorial, Drew Kaul (Stanford CS224N 2023)](https://www.youtube.com/watch?v=Uv0AIRr3ptg) - Get hands-on with PyTorch, a powerful framework for deep learning.
+    - [ ] [Hugging Face Tutorial, Eric Frankel (Stanford CS224N 2023)](https://www.youtube.com/watch?v=b80by3Xk_A8) - Learn Hugging Face.
 - [ ] **Implementation:**
     - [ ] TBD
 
